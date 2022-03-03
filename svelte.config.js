@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-vercel';
 import preprocess from 'svelte-preprocess';
 import path from 'path';
 
@@ -10,6 +10,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
+
 		vite: {
 			resolve: {
 				alias: {
