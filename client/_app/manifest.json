@@ -1,0 +1,84 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-3de6b26a.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-9c9f0722.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte",
+      "src/routes/professors/index.svelte",
+      "src/routes/professors/[name].svelte",
+      "src/routes/about.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-1234d41a.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-9c9f0722.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-77a179c7.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-c86608d5.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-9c9f0722.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-35a7b470.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-9c9f0722.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-ead5a78e.css"
+    ]
+  },
+  "src/routes/professors/index.svelte": {
+    "file": "pages/professors/index.svelte-89c9a877.js",
+    "src": "src/routes/professors/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-9c9f0722.js"
+    ]
+  },
+  "src/routes/professors/[name].svelte": {
+    "file": "pages/professors/_name_.svelte-232aff41.js",
+    "src": "src/routes/professors/[name].svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-9c9f0722.js"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "pages/about.svelte-e9947204.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-9c9f0722.js"
+    ],
+    "css": [
+      "assets/pages/about.svelte-bf4528fa.css"
+    ]
+  },
+  "_vendor-9c9f0722.js": {
+    "file": "chunks/vendor-9c9f0722.js"
+  }
+}

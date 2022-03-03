@@ -1,0 +1,70 @@
+{
+  ".svelte-kit/build/app.js": {
+    "file": "app.js",
+    "src": ".svelte-kit/build/app.js",
+    "isEntry": true,
+    "imports": [
+      "_index-756e41cf.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-756e41cf.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-66af0b9e.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/pages/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-756e41cf.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-756e41cf.js"
+    ],
+    "css": [
+      "assets/entries/pages/index.svelte-a189ac17.css"
+    ]
+  },
+  "src/routes/professors/index.svelte": {
+    "file": "entries/pages/professors/index.svelte.js",
+    "src": "src/routes/professors/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-756e41cf.js"
+    ]
+  },
+  "src/routes/professors/[name].svelte": {
+    "file": "entries/pages/professors/_name_.svelte.js",
+    "src": "src/routes/professors/[name].svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-756e41cf.js"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "entries/pages/about.svelte.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-756e41cf.js"
+    ],
+    "css": [
+      "assets/entries/pages/about.svelte-64e391b1.css"
+    ]
+  },
+  "_index-756e41cf.js": {
+    "file": "chunks/index-756e41cf.js"
+  }
+}
